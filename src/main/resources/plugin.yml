@@ -1,0 +1,7 @@
+name: obsidian
+version: '1.0.0'
+main: kr.lovelymoca.obsidian.Obsidian
+api-version: '1.19'
+authors: [ Hightechnyangtoml ]
+description: for ilmaek festival
+website: https://github.com/Hightechnyangtoml
